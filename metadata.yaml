@@ -1,0 +1,37 @@
+_repo: The-hope-of-happiness_68399
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: https://en.wikipedia.org/wiki/Meredith_Nicholson
+description: ''
+gutenberg_issued: '2022-06-25'
+identifiers:
+  gutenberg: '68399'
+  lccn: '23013882'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uva.x000430763&view=1up&seq=1&skin=2021
+pgterms:marc905: 20210922161015nicholson
+pgterms:marc906: '1923'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :Charles Scribner's Sons,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Middle West -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Architects -- Fiction'
+- GITenberg
+title: The hope of happiness
+url: http://www.gutenberg.org/ebooks/68399
